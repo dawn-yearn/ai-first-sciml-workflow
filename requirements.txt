@@ -1,0 +1,5 @@
+# Existing compatible installations can be reused. No automatic installation.
+pypdf
+PyMuPDF
+Pillow
+numpy
