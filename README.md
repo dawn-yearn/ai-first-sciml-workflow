@@ -78,7 +78,7 @@ flowchart LR
 
 基线比较在复现阶段就要理解。使用已训练权重得到一个结果、重新训练得到相近结果、独立重实现得到相近结果，所完成的工作不同，应分别说明。
 
-入口：[复现与扩展指南](docs/reproduction.md)、[复现计划与结果模板](templates/reproduction-plan.md)。
+入口：[复现与扩展指南](docs/reproduction.md)、[复现计划与结果模板](templates/reproduction-plan.md)。新建或迁移项目时，先看[目录、接口与项目地图指南](docs/project-bootstrap.md)，填写[项目启动模板](templates/project-layout.md)。
 
 ### 4. EXTEND：从已有证据中提出可检验的改变
 
